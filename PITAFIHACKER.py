@@ -10,4 +10,4 @@ if bit=="64bit":
     kb.police()
 elif bit=="32bit":
     import kb
-    kb.police()
+    ks.police()
